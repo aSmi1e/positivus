@@ -209,7 +209,7 @@ svg * {
 @font-face {
   font-family: "Space Grotesk";
   src: url("../fonts/SpaceGrotesk-Regular.woff2") format("woff2");
-  font-weight: normal;
+  font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
